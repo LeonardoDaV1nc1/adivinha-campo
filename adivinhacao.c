@@ -8,7 +8,13 @@ int main(){
 	
 	printf("**********************\n");
 
-#include <stdio.h>
+int chute;
+
+printf("Qual é o seu chue?");
+
+scanf("%d", &chute);
+
+printf("Você chutou o número %d!", chute);
 
 int numerosecreto;
 
