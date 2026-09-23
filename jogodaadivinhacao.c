@@ -8,16 +8,12 @@ int main(){
 	
 	printf("**********************\n");
 
-#include <stdio.h>
-
 int numerosecreto;
 
 numerosecreto = 42;
-//imprimindo omente o numero
 
-printf("%d",42);
-// no meio da frase
+int numerosecreto; 
 
-printf("O numero %d é secreto!");
+numerosecreto = 42;
 
 }
